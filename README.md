@@ -1,6 +1,6 @@
 # Proyecto de Data Science y Desarrollo en Python
 
-¡Hola! 👋 Soy [Tu Nombre], un apasionado de la ciencia de datos y desarrollo en Python con más de 5 años de experiencia. Actualmente, estoy cursando una Maestría en Analítica Aplicada con beca.
+¡Hola! 👋 Soy Daniel Cabana, un apasionado de la ciencia de datos y desarrollo en Python con más de 5 años de experiencia. Actualmente, estoy cursando una Maestría en Analítica Aplicada con beca.
 
 ## Sobre mí
 
